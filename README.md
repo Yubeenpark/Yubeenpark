@@ -1,4 +1,4 @@
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=yubi)](https://solved.ac/yubinpark2)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=yubinpark2)](https://solved.ac/yubinpark2)
 <!--
 **Yubeenpark/Yubeenpark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
