@@ -1,5 +1,13 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Sguri&fontSize=70)
+<div align=center> 
+  
+[![My Blog](https://img.shields.io/badge/Blog-black?logo=github&logoColor=white)](https://sguri.site)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0A66C2?logo=LinkedIn&logoColor=fff)](https://www.linkedin.com/in/i4song/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=yubinpark2)](https://solved.ac/yubinpark2)
+
+</div>
+
 <div align=center><h1>📚 STACKS</h1></div>
 
 <div align=center> 
@@ -33,24 +41,12 @@
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
 </div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yubeenpark&layout=compact)](https://github.com/Yubeenpark/github-readme-stats)
+<br>
+<div align=center> 
+<h1> Top Language </h1>
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yubeenpark&layout=compact)](https://github.com/Yubeenpark/github-readme-stats)
+</div>
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=yubinpark2)](https://solved.ac/yubinpark2)
-
-
-<!--
-**Yubeenpark/Yubeenpark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 ![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=gradient)
