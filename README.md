@@ -43,7 +43,6 @@
 
 <br>
 <div align=center> 
-<h1> Top Language </h1>
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yubeenpark&layout=compact)](https://github.com/Yubeenpark/github-readme-stats)
 </div>
