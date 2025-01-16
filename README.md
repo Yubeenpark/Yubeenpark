@@ -4,7 +4,7 @@
   
 [![My Blog](https://img.shields.io/badge/Blog-black?logo=github&logoColor=white)](https://sguri.site)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0A66C2?logo=LinkedIn&logoColor=fff)](https://www.linkedin.com/in/i4song/)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=yubinpark2)](https://solved.ac/yubinpark2)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=yubinpark2)](https://solved.ac/profile/yubinpark2)
 
 </div>
 
