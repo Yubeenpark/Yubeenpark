@@ -42,10 +42,7 @@
 </div>
 
 <br>
-<div align=center> 
-  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yubeenpark&layout=compact)](https://github.com/Yubeenpark/github-readme-stats)
-</div>
+
 
 
 ![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=gradient)
